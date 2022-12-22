@@ -1,6 +1,6 @@
 # Olá pessoal 👋 Bem-vindos ao meu GitHub !
 
-- 👋 Meu nome é Rafaela Pedroso
+- 👋 Meu nome é Rafaela Vechiez Pedroso
 - 🔭 Atualmente estou procurando trabalho em Desenvolvimento Front-end ou UI/UX
 - 🌱 Atualmente estou aprendendo Angular e React
 - 👯 Estou procurando colaborar no desenvolvimento web e no design de telas
